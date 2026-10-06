@@ -13,7 +13,11 @@
 .logo-footer {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  color: #fff;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 
 .logo-web-f {
